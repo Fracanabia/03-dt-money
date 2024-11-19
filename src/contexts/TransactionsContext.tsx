@@ -56,7 +56,7 @@ export const TransactionsProvider = ({
         type,
         createdAt: new Date(),
       })
-      setTransactions(state => [...state, response.data])
+      setTransactions(state => [response.data, ...state])
     },
     [],
   )
