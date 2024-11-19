@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-11-19T13:16:55.413Z"
+    },
+    {
+      "id": 3,
+      "description": "Estudos",
+      "type": "outcome",
+      "category": "Estudos",
+      "price": 2250,
+      "createdAt": "2024-11-19T13:36:55.413Z"
     }
   ]
 }
